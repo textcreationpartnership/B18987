@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious message of the fifth of this instant May to both Houses of Parliament occasioned by a bill delivered to His Majesty from both Houses by Sir Robert King, knight and William Jephson and Arthur Hill Esquires, intituled, An act for the speedy payment of moneys subscribed towards the reducing of the rebels in Ireland, which yet remains unpaid.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18987</idno><idno type="EEBO-CITATION">12180286</idno>
+  <idno type="VID">197238</idno>
+  <idno type="EEBO-PROQUEST">2240939024</idno>
+  
+            <idno type="STC">Wing C2326</idno>
+            <idno type="OCLC">12180286</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E101, no 11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious message of the fifth of this instant May to both Houses of Parliament occasioned by a bill delivered to His Majesty from both Houses by Sir Robert King, knight and William Jephson and Arthur Hill Esquires, intituled, An act for the speedy payment of moneys subscribed towards the reducing of the rebels in Ireland, which yet remains unpaid.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Printed ... at Oxford [i.e. London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>False imprint.</note>
+                  <note>Originally published at Oxford with title: His Majesties message to both Houses of Parliament May 5, 1643...</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance, Public --  England.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197238:1"/>
+            <p>HIS MAJESTIES GRACIOUS MESSAGE Of the fifth of this instant May, to both Houses of PARLIAMENT;</p>
+            <p>Occasioned by a Bill delivered to His MAJESTY from both Houses by Sir <hi>Robert King,</hi> Knight, and <hi>William Jephson,</hi> and <hi>Arthur Hill,</hi> Esquires,</p>
+            <p>Intituled, An Act for the speedy payment of Moneys subscribed to<g ref="char:EOLhyphen"/>wards the reducing of the Rebels in <hi>Ireland,</hi> which yet remains unpaid.</p>
+            <p>Printed by His Majesties Command at <hi>OXFORD,</hi> By <hi>Leonard Lichfield,</hi> Printer to the Universitie. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197238:2"/>
+            <pb n="1" facs="tcp:197238:2"/>
+            <head>His Majesties gracious Message to both Houses of Parliament, the fift of May, <hi>1643.</hi>
+            </head>
+            <p>HIs Majestie hath with great de<g ref="char:EOLhyphen"/>liberation considered &amp; weigh<g ref="char:EOLhyphen"/>ed a Bill lately presented to Him by Sir <hi>Robert King</hi> Knight, and <hi>William Jephson</hi> and <hi>Arthur Hill,</hi> Esquires, from both Houses of Parliament, Entituled, <hi>An Act for the speedy payment of Moneys subscribed towards the reducing of the Rebels in Jreland, which yet remains un<g ref="char:EOLhyphen"/>paid.</hi> And though in these miserable times of Distraction, when there are Armies (pretended to be leavied by Order of Both Houses) almost in eve<g ref="char:EOLhyphen"/>ry County of the Kingdom, and all the good old Laws, the observation wher<g ref="char:EOLhyphen"/>of would preserve the publike Peace, violated and suppressed; when the
+<pb n="2" facs="tcp:197238:3"/>Treaty hopefully begun towards an happy Peace, is broken, and the Com<g ref="char:EOLhyphen"/>mittee recalled by both Houses, as if they intended no further overture for laying down Arms, but to decide all differences by the sword, The world will easily judge whether His Majesty might not well deny to consent to any new Act of Parliament, the much ma<g ref="char:EOLhyphen"/>jor part of both Houses being by force and violence driven &amp; kept from those Councels, and His Majesty Himself not suffered to be present; Yet such is his compassion of Soul towards his poor Protestant Subjects of that His Kingdom of <hi>Ireland,</hi> That He would gladly entertain any Expedient, where<g ref="char:EOLhyphen"/>by it might be evident the condition of that Kingdom might be releeved, and the Distractions of this in no danger of being increased. And therfore His Ma<g ref="char:EOLhyphen"/>jesty
+<pb n="3" facs="tcp:197238:3"/>desires to be satisfied in these par<g ref="char:EOLhyphen"/>ticulars:</p>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>
+                  <hi>HOw the great and vast sums of Mo<g ref="char:EOLhyphen"/>neys already raised by the several Acts of Parl. for the relief of</hi> Ireland, <hi>&amp; which by the Acts ought not to he imployed to any other purpose then reducing the Rebels, untill they shall be declared to be subdued, have been expended, His Majesty having been informed that no lesse then one hun<g ref="char:EOLhyphen"/>dred thousand pounds of that money was by one Order of one or both Houses issued for a maintenance of the Army which hath given him Battell under the Command of the Earl of</hi> Essex.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>
+                  <hi>How His Majesty shall be secured that the money which by His Majesties consent shall be raised for the support of His Army in</hi> Ireland, <hi>shall not for the future be di<g ref="char:EOLhyphen"/>verted
+<pb n="4" facs="tcp:197238:4"/>from that use, and imployed against Him in this Kingdom.</hi>
+               </p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>
+                  <hi>Whether it be just to compell his good Subjects, who have subscribed to pay those subscriptions, when as at the time they did subscribe, they conceived themselves ab<g ref="char:EOLhyphen"/>solved from their undertaking, if at any time they were content to forfeit the sum mentioned in that Act: For his Majesty doth not conceive, that by that Act they are liable to pay the whole Subscriptions, but to submit to the penalty enjoyned: And then his Majesty is not satisfied, that by a new law it can be just to compell them to what at the first they undertook voluntari<g ref="char:EOLhyphen"/>ly; and it may be would not have underta<g ref="char:EOLhyphen"/>ken but upon the liberty they conceived to be then left them.</hi>
+               </p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>
+                  <hi>Whether the Power given by this new bill
+<pb n="5" facs="tcp:197238:4"/>to</hi> VVarner Towse, and Andrews <hi>(per<g ref="char:EOLhyphen"/>sons of whose integrity and affections to the publike Peace, his Majesty is in no degree satisfied) be not too great; any Certificate of theirs being ground enough to extend the Estate of any Subject in England, whe<g ref="char:EOLhyphen"/>ther he ever under-writ or no.</hi>
+               </p>
+            </div>
+            <div n="5" type="article">
+               <head>V.</head>
+               <p>
+                  <hi>Whether all Lands extended by vertue of this Act, being to continue in extent till all forfeitures be satisfied, it may not be very prejudiciall to Creditors to whom those lands are lyable, and so the common justice may be disturbed.</hi>
+               </p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>
+                  <hi>Whether by this Act the Extents being not to be avoided, or delayed for omission of any Lands, the same may not be prejudici<g ref="char:EOLhyphen"/>all to all Purchasers, and whether it be not against the known course of the Law.</hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <pb n="6" facs="tcp:197238:5"/>
+               <p>His Majesty desires to receive satis<g ref="char:EOLhyphen"/>faction from both houses of Parliament in these particulars with all possible ex<g ref="char:EOLhyphen"/>pedition, and then he shall give all the world an account how sensible he is of the misery of <hi>Ireland,</hi> and how desirous he is to finde or embrace any way for their Relief; The best, if not the onely way to which, His Majesty conceives would be by a good &amp; blessed Accom<g ref="char:EOLhyphen"/>modation of the lamentable Distracti<g ref="char:EOLhyphen"/>ons of this Kingdom; which if the mat<g ref="char:EOLhyphen"/>ter of His Majesties last Message were so entertained, as His Majesty hoped and expected, might by the blessing of God in a short time be effected.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
